@@ -1,3 +1,5 @@
 -Pepperoni
 -Pinya
 -Formatge
+-Tomata
+-Bacon
